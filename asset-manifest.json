@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PlanYourJourney/static/css/main.eebb1c8e.css",
+    "main.js": "/PlanYourJourney/static/js/main.5e7fbfec.js",
+    "index.html": "/PlanYourJourney/index.html",
+    "main.eebb1c8e.css.map": "/PlanYourJourney/static/css/main.eebb1c8e.css.map",
+    "main.5e7fbfec.js.map": "/PlanYourJourney/static/js/main.5e7fbfec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eebb1c8e.css",
+    "static/js/main.5e7fbfec.js"
+  ]
+}
